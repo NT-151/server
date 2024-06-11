@@ -15,6 +15,12 @@ from nltk.corpus import sentiwordnet as swn
 from langchain_community.document_loaders import NewsURLLoader
 import yfinance as yf
 from langchain_openai import ChatOpenAI
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+key = os.getenv('API_KEY')
 
 
 app = Flask(__name__)
@@ -318,7 +324,7 @@ def prepare_data(sentimental, data):
 def llm_analysis(name):
     # Initialize the ChatOpenAI instance with the API key
     llm = ChatOpenAI(
-        api_key="hey")
+        api_key=key)
 
     # Get news links related to the given stock name
     news_links = get_google_news_for_sentiment(name)
