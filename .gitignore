@@ -1,2 +1,4 @@
 requirements.txt
 testdata.json
+dataForMachine.json
+.env
