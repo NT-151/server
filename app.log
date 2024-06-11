@@ -1,0 +1,20 @@
+2024-05-20 13:21:58,278  * Debugger is active!
+2024-05-20 13:21:58,321  * Debugger PIN: 143-187-784
+2024-05-20 13:21:58,436 127.0.0.1 - - [20/May/2024 13:21:58] "OPTIONS /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:21:58,439 127.0.0.1 - - [20/May/2024 13:21:58] "OPTIONS /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:22:24,751 127.0.0.1 - - [20/May/2024 13:22:24] "OPTIONS /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:25:32,578 HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-20 13:25:32,755 127.0.0.1 - - [20/May/2024 13:25:32] "POST /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:25:34,746 HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-20 13:25:34,904 127.0.0.1 - - [20/May/2024 13:25:34] "POST /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:25:52,190 HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-20 13:25:52,315 127.0.0.1 - - [20/May/2024 13:25:52] "POST /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:27:30,001 127.0.0.1 - - [20/May/2024 13:27:30] "OPTIONS /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:28:04,202 127.0.0.1 - - [20/May/2024 13:28:04] "OPTIONS /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:28:04,210 127.0.0.1 - - [20/May/2024 13:28:04] "OPTIONS /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:31:00,461 HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-20 13:31:00,739 127.0.0.1 - - [20/May/2024 13:31:00] "POST /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:31:50,431 HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-20 13:31:50,840 HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-20 13:31:51,036 127.0.0.1 - - [20/May/2024 13:31:51] "POST /api/simulate HTTP/1.1" 200 -
+2024-05-20 13:31:51,471 127.0.0.1 - - [20/May/2024 13:31:51] "POST /api/simulate HTTP/1.1" 200 -
