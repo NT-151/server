@@ -1,5 +1,4 @@
 # created by virtualenv automatically
-testdata.json
+*testdata.json
 
-
-dataForMachine.json
+*dataForMachine.json
